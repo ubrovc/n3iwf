@@ -10,7 +10,7 @@ require (
 	github.com/free5gc/ngap v1.0.6
 	// github.com/free5gc/util v1.0.3
 	// FOR LOCAL DEV ONLY, ELSE use commented one!!!
-	github.com/ubrovc/util v1.0.3
+	github.com/ubrovc/util v1.0.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/urfave/cli v1.22.5
 	github.com/vishvananda/netlink v1.1.0
