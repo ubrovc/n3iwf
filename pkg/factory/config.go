@@ -10,7 +10,7 @@ import (
 	"github.com/asaskevich/govalidator"
 
 	"github.com/free5gc/n3iwf/pkg/context"
-	logger_util "github.com/free5gc/util/logger"
+	logger_util "github.com/free5gc/ubrovc/logger"
 )
 
 const (

@@ -10,7 +10,7 @@ import (
 
 	"github.com/free5gc/n3iwf/internal/logger"
 	"github.com/free5gc/n3iwf/pkg/service"
-	"github.com/free5gc/util/version"
+	"github.com/ubrovc/util/version"
 )
 
 var N3IWF = &service.N3IWF{}
