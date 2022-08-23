@@ -9,7 +9,7 @@ import (
 
 	aperLogger "github.com/free5gc/aper/logger"
 	ngapLogger "github.com/free5gc/ngap/logger"
-	logger_util "github.com/ubrovc/util/logger"
+	logger_util "github.com/free5gc/util/logger"
 )
 
 var log *logrus.Logger

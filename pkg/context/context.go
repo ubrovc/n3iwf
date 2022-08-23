@@ -15,7 +15,7 @@ import (
 
 	"github.com/free5gc/n3iwf/internal/logger"
 	"github.com/free5gc/ngap/ngapType"
-	"github.com/ubrovc/util/idgenerator"
+	"github.com/free5gc/util/idgenerator"
 )
 
 var contextLog *logrus.Entry

@@ -3,6 +3,7 @@ module github.com/free5gc/n3iwf
 go 1.14
 
 replace github.com/free5gc/util => github.com/ubrovc/util v1.0.0
+
 require (
 	git.cs.nctu.edu.tw/calee/sctp v1.1.0
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
