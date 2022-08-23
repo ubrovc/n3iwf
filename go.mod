@@ -2,13 +2,14 @@ module github.com/free5gc/n3iwf
 
 go 1.14
 
+replace github.com/free5gc/util => github.com/ubrovc/util v1.0.0
 require (
 	git.cs.nctu.edu.tw/calee/sctp v1.1.0
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/free5gc/aper v1.0.4
 	github.com/free5gc/ngap v1.0.6
-	github.com/ubrovc/util v1.0.0
+	github.com/free5gc/util v1.0.3
 	github.com/sirupsen/logrus v1.8.1
 	github.com/urfave/cli v1.22.5
 	github.com/vishvananda/netlink v1.1.0
